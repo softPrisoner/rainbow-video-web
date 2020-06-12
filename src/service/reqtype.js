@@ -1,0 +1,6 @@
+export const  MESSAGE_CIRCLE_REQUEST = 11;
+export const  MESSAGE_FRIEND_REQUEST = 12;
+export const MESSAGE_FRIEND_AGREE_QEQUEST = 13;
+export const MESSAGE_MESSAGE_REQUEST = 14;
+export const MESSAGE_VIDEO_REQUEST = 15;
+export const MESSAGE_AUDIO_REQUEST = 16;
