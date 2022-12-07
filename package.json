@@ -15,7 +15,7 @@
     "mint-ui": "^2.2.13",
     "node-sass": "^4.12.0",
     "qrcodejs2": "0.0.2",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "shake.js": "^1.2.2",
     "socket.io": "^2.2.0",
     "uglifyjs-webpack-plugin": "^1.1.1",
